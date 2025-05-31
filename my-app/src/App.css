@@ -37,6 +37,12 @@
   padding: 2em;
 }
 
+.button-row {
+  display: flex;
+  flex-direction: row;
+  grid-gap: 5px;
+}
+
 .read-the-docs {
   color: #888;
 }
